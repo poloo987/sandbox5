@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5008dd74-4e7a-4327-8ca5-a1f7b5e136ca" name="Default Changelist" comment="" />
+    <list default="true" id="5008dd74-4e7a-4327-8ca5-a1f7b5e136ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/website/step_definitions/test_case1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/website/step_definitions/test_case1.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +18,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Pepe" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hCm5bYPiTf4du4ZwkTcBKG4NjX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -52,7 +68,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\franc\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,7 +80,55 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="534" y="0" key="CommitChangelistDialog2" timestamp="1599614023586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599614023586" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1599613615181">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599613615181" />
     <state width="1323" height="410" key="GridCell.Tab.0.bottom" timestamp="1599536040335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -81,10 +145,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="410" key="GridCell.Tab.0.right/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599536040335" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1599614161734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599614161734" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599612527906">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599612527906" />
+    <state x="409" y="156" key="git4idea.merge.GitPullDialog" timestamp="1599613764127">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="156" key="git4idea.merge.GitPullDialog/0.0.1366.728@0.0.1366.728" timestamp="1599613764127" />
     <state x="346" y="49" key="search.everywhere.popup" timestamp="1599525164306">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

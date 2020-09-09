@@ -19,7 +19,7 @@ public void the_manager_has_logged_in() {
         String sUsername = ConfigurationReader.get("store_manager_username");
         String sPassword = ConfigurationReader.get("store_manager_password");
 
-        LoginPage bot1 = new LoginPage();
+        LoginPage bot1 = new LoginPage(); // Comment
         bot1.login(sUsername, sPassword);
 
         }
