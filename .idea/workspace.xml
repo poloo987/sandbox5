@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5008dd74-4e7a-4327-8ca5-a1f7b5e136ca" name="Default Changelist" comment="test case 1 wip1 commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/website/base_page/login_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/website/base_page/pepe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/website/step_definitions/front_end/hooks.java" afterDir="false" />
+    <list default="true" id="5008dd74-4e7a-4327-8ca5-a1f7b5e136ca" name="Default Changelist" comment="blocker on vtrack , so am adding youtube project instead- franco">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/website/base_page/YT_HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/website/step_definitions/front_end/YT_T01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/youtube_T01.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/website/base_page/login_page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/website/base_page/pepe.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/website/runners/Main_Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/website/runners/Main_Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/website/step_definitions/front_end/hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/website/step_definitions/front_end/hooks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/website/step_definitions/test_case1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/website/step_definitions/test_case1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/manger_login.features" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/manger_login.features" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/vytrack_test_case1.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/vytrack_test_case1.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/manger_login.features" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/manger_login.features" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/features/vytrack_test_case1.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/vytrack_test_case1.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/manger_login.features" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/manger_login.features" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/website/runners/Main_Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/website/runners/Main_Runner.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599614902036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test case 1 wip1 commit">
+      <created>1599698999365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599698999365</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,58 +174,64 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="test case 1 wip1 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test case 1 wip1 commit" />
+    <MESSAGE value="blocker on vtrack , so am adding youtube project instead- franco" />
+    <option name="LAST_COMMIT_MESSAGE" value="blocker on vtrack , so am adding youtube project instead- franco" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="534" y="0" key="CommitChangelistDialog2" timestamp="1599698142284">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2117" y="-182" key="CommitChangelistDialog2" timestamp="1600883385658">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
-    <state x="534" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698142284" />
+    <state x="534" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698998303" />
+    <state x="2117" y="-182" key="CommitChangelistDialog2/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600883385658" />
     <state x="534" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599614901133" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1599613615181">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599613615181" />
-    <state width="1323" height="499" key="GridCell.Tab.0.bottom" timestamp="1599698929194">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="760" key="GridCell.Tab.0.bottom" timestamp="1600882140769">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698929194" />
-    <state width="1877" height="762" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1599677339229" />
+    <state width="1323" height="499" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1600709818400" />
+    <state width="1877" height="760" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600882140769" />
     <state width="1323" height="499" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599682939480" />
-    <state width="1323" height="499" key="GridCell.Tab.0.center" timestamp="1599698929194">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="760" key="GridCell.Tab.0.center" timestamp="1600882140769">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.0.center/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698929194" />
-    <state width="1877" height="762" key="GridCell.Tab.0.center/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1599677339229" />
+    <state width="1323" height="499" key="GridCell.Tab.0.center/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1600709818400" />
+    <state width="1877" height="760" key="GridCell.Tab.0.center/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600882140769" />
     <state width="1323" height="499" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599682939479" />
-    <state width="1323" height="499" key="GridCell.Tab.0.left" timestamp="1599698929194">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="760" key="GridCell.Tab.0.left" timestamp="1600882140769">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.0.left/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698929194" />
-    <state width="1877" height="762" key="GridCell.Tab.0.left/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1599677339229" />
+    <state width="1323" height="499" key="GridCell.Tab.0.left/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1600709818399" />
+    <state width="1877" height="760" key="GridCell.Tab.0.left/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600882140769" />
     <state width="1323" height="499" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599682939479" />
-    <state width="1323" height="499" key="GridCell.Tab.0.right" timestamp="1599698929194">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1877" height="760" key="GridCell.Tab.0.right" timestamp="1600882140769">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
-    <state width="1323" height="499" key="GridCell.Tab.0.right/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698929194" />
-    <state width="1877" height="762" key="GridCell.Tab.0.right/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1599677339229" />
+    <state width="1323" height="499" key="GridCell.Tab.0.right/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1600709818400" />
+    <state width="1877" height="760" key="GridCell.Tab.0.right/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600882140769" />
     <state width="1323" height="499" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599682939480" />
     <state x="184" y="7" key="SettingsEditor" timestamp="1599614161734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1599614161734" />
-    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1599614937607">
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2" timestamp="1599699012070">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599699012070" />
     <state x="275" y="98" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1599614937607" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1599680618414">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1899" y="88" key="com.intellij.ide.util.TipDialog" timestamp="1600881032071">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1600709775940" />
+    <state x="1899" y="88" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600881032071" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1599680618414" />
-    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599698953943">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="2058" y="221" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600883224005">
+      <screen x="1366" y="-182" width="1920" height="1040" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.-182.1920.1040@0.0.1366.728" timestamp="1599698953943" />
+    <state x="2058" y="221" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.-182.1920.1040@1366.-182.1920.1040" timestamp="1600883224005" />
     <state x="409" y="156" key="git4idea.merge.GitPullDialog" timestamp="1599695775359">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -29,16 +29,20 @@ public void the_manager_has_logged_in() {
 
     @Given("the manager clicks Calendar Events under Activities")
     public void the_manager_clicks_Calendar_Events_under_Activities() {
-        Driver.get().findElement(By.xpath("//span[contains(text(),'Activities')]")).click();
-        Driver.get().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+////span[@class='title title-level-1'][contains(text(),'Activities')]
+        Driver.get().findElement(By.xpath("//span[@class='title title-level-1'][contains(text(),'Activities')]")).click();
+       // Driver.get().manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         Driver.get().findElement(By.xpath("//span[contains(text(),'Calendar Event')]")).click();
+        //span[contains(text(),'Calendar Events')]
+
+
 //  //span[contains(concat('⦿', @class, '⦿'), '⦿title title-level-1⦿')]
         //<span class="title title-level-1"><i class="fa-puzzle-piece menu-icon"></i>
         //    Activities</span>
     }
 
     @When("the user hovers over the triple dots")
-    public void the_user_hovers_over_the_triple_dots(String string) {
+    public void the_user_hovers_over_the_triple_dots() {
         // <a data-toggle="dropdown" class="dropdown-toggle" href="javascript:void(0);">...</a>
         // //td[contains(text(),'test event')]       -- "test events"
         // //a[contains(text(),'...')]               -- this ...
